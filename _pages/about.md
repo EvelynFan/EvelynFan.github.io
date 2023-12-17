@@ -15,7 +15,7 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Research Scientist at Sony R&D US Labs. Previously, I was a Machine Learning Researcher at Samsung Research America (SRA).
+I am currently a Research Scientist at Sony. Previously, I was a Machine Learning Researcher at Samsung Research America (SRA).
 
 I received my Ph.D. degree in Computer Science at the University of Hong Kong (HKU) in 2022, under the supervision of [Prof. Taku Komura](https://www.cs.hku.hk/index.php/people/academic-staff/taku), [Prof. Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and [Prof. Ping Luo](http://luoping.me/). Before that, I obtained my B.E. degree in Telecommunication Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2017. I have served as the Program Committee and Reviewer for a variety of conferences such as NeurIPS, CVPR, SIGGRAPH, ECCV and AAAI, and journals such as International Journal of Computer Vision (IJCV), Artificial Intelligence (AI), IEEE Transactions on Affective Computing, IEEE Signal Processing Letters and Neurocomputing.
 
